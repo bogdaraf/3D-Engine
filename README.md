@@ -7,7 +7,7 @@ The app displays a 3D scene that is first loaded from the XML file. The user can
 ## Table of Contents
 
 * [General Info](#general-information)
-* [Screenshot](#screenshot)
+* [Screenshots](#screenshots)
 * [Features](#features)
 * [Setup](#setup)
 * [Contact](#contact)
@@ -26,10 +26,10 @@ It is one of the projects which I have developed during my free time. Through th
 3D graphics, since I implemented the logic from scratch. The project also required solving some algorithmic problems, e.g. generating meshes
 based on a given type and number of triangles.
 
-## Screenshot
+## Screenshots
 
-![Example screenshot](screenshot1.png)
-![Example screenshot](screenshot2.png)
+![Example screenshot](images/screenshot1.png)
+![Example screenshot](images/screenshot2.png)
 
 ## Features
 
